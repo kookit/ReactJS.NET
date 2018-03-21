@@ -1,0 +1,11 @@
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp2.0\ReactDemo.deps.json
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp2.0\ReactDemo.runtimeconfig.json
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp2.0\ReactDemo.runtimeconfig.dev.json
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp2.0\ReactDemo.dll
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp2.0\ReactDemo.pdb
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp2.0\ReactDemo.csproj.CoreCompileInputs.cache
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp2.0\ReactDemo.AssemblyInfoInputs.cache
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp2.0\ReactDemo.AssemblyInfo.cs
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp2.0\ReactDemo.dll
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp2.0\ReactDemo.pdb
+C:\Users\koocadmin\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp2.0\ReactDemo.csprojResolveAssemblyReference.cache
